@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fire_detection/static/css/main.36aba6dc.css",
+    "main.js": "/fire_detection/static/js/main.e00a0659.js",
+    "static/js/787.96a18718.chunk.js": "/fire_detection/static/js/787.96a18718.chunk.js",
+    "index.html": "/fire_detection/index.html",
+    "main.36aba6dc.css.map": "/fire_detection/static/css/main.36aba6dc.css.map",
+    "main.e00a0659.js.map": "/fire_detection/static/js/main.e00a0659.js.map",
+    "787.96a18718.chunk.js.map": "/fire_detection/static/js/787.96a18718.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36aba6dc.css",
+    "static/js/main.e00a0659.js"
+  ]
+}
