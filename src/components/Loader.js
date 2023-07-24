@@ -6,7 +6,7 @@ const Loader = () => {
 
         <img src={spinner}alt='loading..'/>
 
-        <h1>Fetching Data from NASA</h1>
+        <p>Φορτώνει...</p>
     </div>
   )
 }
